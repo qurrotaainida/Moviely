@@ -1,0 +1,7 @@
+#Fri Nov 19 22:43:00 WIB 2021
+base.1=/Users/nabilahputri/Downloads/TheMovieDB-master/Movie Catalogue/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+path.1=classes.dex
+base.0=/Users/nabilahputri/Downloads/TheMovieDB-master/Movie Catalogue/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
